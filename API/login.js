@@ -1,6 +1,6 @@
-const urlBackendeva = "https://remarkable-commitment-production.up.railway.app/usuarios";
+const urlBackendeva = "https://sistemaconferencias-production.up.railway.app/usuarios";
 
-const urlLocal = "https://remarkable-commitment-production.up.railway.app/usuarios";
+const urlLocal = "https://sistemaconferencias-production.up.railway.app/usuarios";
 
 /**
 async function loginUser(loginDTO) {

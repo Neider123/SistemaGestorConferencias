@@ -1,5 +1,5 @@
 const urlBackendAut = "http://localhost:8080/usuarios";
-const urlRailway = "https://remarkable-commitment-production.up.railway.app"
+const urlRailway = "https://sistemaconferencias-production.up.railway.app"
 
 async function findListAutores() {
     const result = await fetch(urlRailway + "/findUsuarios/AUTOR", {
