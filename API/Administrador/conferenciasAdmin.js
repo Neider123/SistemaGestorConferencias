@@ -1,6 +1,6 @@
 const urlBackendConferencia =
- "https://sistemaconferencias-production.up.railway.app/conferencias";
-const urlRailway = "https://sistemaconferencias-production.up.railway.app";
+ "https://backend-sistemagestorconferencias.onrender.com/conferencias";
+const urlRailway = "https://backend-sistemagestorconferencias.onrender.com";
 
 /* document.addEventListener('DOMContentLoaded', () => {
     // Manejador para los enlaces del menú de navegación

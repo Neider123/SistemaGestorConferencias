@@ -1,5 +1,5 @@
 // URL del backend
-const urlBackendConferencia = "https://sistemaconferencias-production.up.railway.app";
+const urlBackendConferencia = "https://backend-sistemagestorconferencias.onrender.com";
 
 // Función para cargar conferencias desde el backend
 async function loadConferences() {

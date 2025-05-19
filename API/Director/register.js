@@ -1,6 +1,6 @@
 //creo constantes para manejar los endpoint al servidor
 const urlBackendRegistro = "http://localhost:8080/usuarios"
-const urlRailway = "https://sistemaconferencias-production.up.railway.app"
+const urlRailway = "https://backend-sistemagestorconferencias.onrender.com"
 
 
 document.addEventListener("DOMContentLoaded",function(){
